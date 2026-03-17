@@ -1,6 +1,6 @@
 # TER-Wasserstein
 # Projet TER : Optimisation de Mixture Gaussienne par Transport Optimal
-##DISCLAIMER: the repo has no commits as the ORIGINAL repo is private, as the teacher wanted. This is only a public copy.
+## DISCLAIMER: the repo has no commits as the ORIGINAL repo is private, as the teacher wanted. This is only a public copy.
 ## Description
 Ce projet s'inscrit dans le cadre d'un Travail d'Étude et de Recherche (TER). Il explore l'utilisation du transport optimal, et plus précisément de la distance de Wasserstein, pour ajuster et optimiser les paramètres d'une Mixture Gaussienne (GMM) en deux dimensions. 
 
